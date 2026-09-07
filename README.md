@@ -10,7 +10,7 @@ focused on software development, algorithms, computer systems and scalable appli
 **Tools:** Git, GitHub, Docker, Linux, Jira  
 **Concepts:** Data Structures, Algorithms, OOP, Parallel Programming, Agile
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### Planix — Exam Scheduling & Optimization System
 
