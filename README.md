@@ -12,7 +12,7 @@ focused on software development, algorithms, computer systems, and scalable appl
 
 ## 🚀 Featured Projects
 
-### Planix — Exam Scheduling & Optimization System
+### Planix - Exam Scheduling & Optimization System
 
 Python-based exam scheduling system designed to generate, evaluate, and optimize
 academic schedules under complex constraints.
@@ -25,7 +25,7 @@ academic schedules under complex constraints.
 - Calendar export and external integrations
 - MVP architecture
 
-### Cloud Storage Platform — Full-Stack File Management System
+### Cloud Storage Platform - Full-Stack File Management System
 
 Google Drive-inspired full-stack cloud storage application built with
 C++, Node.js/Express, and React.
@@ -42,7 +42,7 @@ C++, Node.js/Express, and React.
 
 ## 🎓 Education
 
-**B.Sc. Software Engineering — Bar-Ilan University**  
+**B.Sc. Software Engineering - Bar-Ilan University**  
 Expected Graduation: August 2028  
 
 ## 📫 Connect
