@@ -5,7 +5,7 @@ focused on software development, algorithms, computer systems and scalable appli
 
 ## 💻 Tech Stack
 
-**Languages:** Java, Python, C++, C, JavaScript, TypeScript, C#  
+**Languages:** Java, Python, C++, C, Assembly (8086), JavaScript, TypeScript, C#  
 **Development:** React, Node.js, React Native  
 **Tools:** Git, GitHub, Docker, Linux, Jira  
 **Concepts:** Data Structures, Algorithms, OOP, Parallel Programming, Agile
